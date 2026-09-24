@@ -1,4 +1,8 @@
 ---
+genres:
+  - strategy
+  - tabletop
+  - party
 directors_cut: https://www.gamedev.pl/games/masterplan/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
